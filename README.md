@@ -38,7 +38,7 @@ This portfolio documents my hands-on labs, projects, and write-ups as I grow in 
 ---
 
 ## 🌍 Connect with Me  
-- 💼 [LinkedIn](www.linkedin.com/in/paul-adeyemi-temi)
+- 💼 [LinkedIn]((https://www.linkedin.com/in/paul-adeyemi-temi)
  
 - 📧 Email: adepaul372@gmail.com  
 
